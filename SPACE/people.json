@@ -1,25 +1,25 @@
-"message" :  " success",
-"people",
+message :  " success",
+people,
 0	
-"name" : "Jasmin Moghbeli",
-"craft:"	"ISS",
+name : "Jasmin Moghbeli",
+craft : "ISS",
 1	
-"name"	: "Andreas Mogensen",
-"craft" :	"ISS",
+name	: "Andreas Mogensen",
+craft :	"ISS",
 2	
-"name"	: "Satoshi Furukawa",
-"craft" :	"ISS",
+name	: "Satoshi Furukawa",
+craft :	"ISS",
 3	
-"name"	: "Konstantin Borisov",
-"craft" :	"ISS",
+name	: "Konstantin Borisov",
+craft :	"ISS",
 4	
-"name" : "Oleg Kononenko",
-"craft" : "ISS",
+name : "Oleg Kononenko",
+craft : "ISS",
 5	
-"name"	: "Nikolai Chub",
-"craft" :	"ISS",
+name : "Nikolai Chub",
+craft :	"ISS",
 6	
-"name" : "Loral O'Hara",
-"craft" : "ISS",
-"number" : 7
+name : "Loral O'Hara",
+craft : "ISS",
+number : 7
 
