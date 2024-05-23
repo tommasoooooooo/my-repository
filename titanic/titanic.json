@@ -1,5 +1,6 @@
 [
   "title": "Titanic",
+  [
   {
     "album": "The White Stripes",
     "year": 1999,
@@ -49,5 +50,5 @@
     "album": "Nine Miles from the White City",
     "year": 2013,
     "US_peak_chart_post": "-"
-  },
+  }
 ]
